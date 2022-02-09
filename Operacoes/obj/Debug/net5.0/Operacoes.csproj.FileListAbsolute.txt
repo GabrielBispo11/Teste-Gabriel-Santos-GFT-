@@ -1,0 +1,16 @@
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/bin/Debug/net5.0/Operacoes
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/bin/Debug/net5.0/Operacoes.deps.json
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/bin/Debug/net5.0/Operacoes.runtimeconfig.json
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/bin/Debug/net5.0/Operacoes.runtimeconfig.dev.json
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/bin/Debug/net5.0/Operacoes.dll
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/bin/Debug/net5.0/ref/Operacoes.dll
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/bin/Debug/net5.0/Operacoes.pdb
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/obj/Debug/net5.0/Operacoes.csproj.AssemblyReference.cache
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/obj/Debug/net5.0/Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/obj/Debug/net5.0/Operacoes.AssemblyInfoInputs.cache
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/obj/Debug/net5.0/Operacoes.AssemblyInfo.cs
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/obj/Debug/net5.0/Operacoes.csproj.CoreCompileInputs.cache
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/obj/Debug/net5.0/Operacoes.dll
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/obj/Debug/net5.0/ref/Operacoes.dll
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/obj/Debug/net5.0/Operacoes.pdb
+/home/gabriel/Desafio-GABSANTOS-START-/Operacoes/obj/Debug/net5.0/Operacoes.genruntimeconfig.cache

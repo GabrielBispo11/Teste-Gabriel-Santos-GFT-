@@ -1,0 +1,5 @@
+/home/gabriel/Desafio-GABSANTOS-START-/Conta/obj/Debug/net5.0/Conta.csproj.AssemblyReference.cache
+/home/gabriel/Desafio-GABSANTOS-START-/Conta/obj/Debug/net5.0/Conta.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desafio-GABSANTOS-START-/Conta/obj/Debug/net5.0/Conta.AssemblyInfoInputs.cache
+/home/gabriel/Desafio-GABSANTOS-START-/Conta/obj/Debug/net5.0/Conta.AssemblyInfo.cs
+/home/gabriel/Desafio-GABSANTOS-START-/Conta/obj/Debug/net5.0/Conta.csproj.CoreCompileInputs.cache
